@@ -1,2 +1,2 @@
-# Mizuho-s_leetcode_trip
+# Mizuho's leetcode trip
 Record my trip on my leetcode attempts.
