@@ -27,3 +27,20 @@ Record my trip on my leetcode attempts.
 - submitted 5 times and passed wtf
 
 ---
+
+## isValidParentheses
+
+ - Runtime: 100 ms, faster than 26.28% of JavaScript online submissions for Valid Parentheses.
+ - Memory Usage: 42.6 MB, less than 25.41% of JavaScript online submissions for Valid Parentheses.
+ - ??? 100 ms fater than 26.28%?????
+ - how fast are you doing this
+ - 64ms faster than 99.77% wtf
+ - juan, jiu en juan
+ - another attempt:
+ - Runtime: 68 ms, faster than 78.36% of JavaScript online submissions for Valid Parentheses.
+ - Memory Usage: 41.6 MB, less than 98.83% of JavaScript online submissions for Valid Parentheses.
+ - looks like decalring/assinging new variable makes it slower?
+ - return arr.length?false:true will make it slower????
+ - runtime and memory usage changes everytime I submit?????????
+
+---

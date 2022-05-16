@@ -27,4 +27,4 @@
 
 // Runtime: 77 ms, faster than 64.12% of JavaScript online submissions for Longest Common Prefix.
 // Memory Usage: 43.8 MB, less than 25.47% of JavaScript online submissions for Longest Common Prefix.
-// 5 submissions wtf
+// submitted 5 times and passed wtf
