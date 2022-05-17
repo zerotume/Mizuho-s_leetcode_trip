@@ -1,7 +1,8 @@
 # Mizuho's leetcode trip
 Record my trip on my leetcode attempts.
 
----
+# Easy Problems:
+
 ## twoSum:
 
 - Runtime: 83 ms, faster than 76.14% of JavaScript online submissions for Two Sum.
@@ -42,5 +43,17 @@ Record my trip on my leetcode attempts.
  - looks like decalring/assinging new variable makes it slower?
  - return arr.length?false:true will make it slower????
  - runtime and memory usage changes everytime I submit?????????
+
+---
+
+
+# Medium Problems:
+
+## pancakeSort
+
+- First attempt:
+- Runtime: 144 ms, faster than 9.46% of JavaScript online submissions for Pancake Sorting.
+- Memory Usage: 48.6 MB, less than 8.11% of JavaScript online submissions for Pancake Sorting.
+- ??????????WOC???????????????????????????????YO&^%&&^E$*^&&^&*%$^
 
 ---
