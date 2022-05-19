@@ -37,6 +37,8 @@ Record my trip on my leetcode attempts.
  - how fast are you doing this
  - 64ms faster than 99.77% wtf
  - juan, jiu en juan
+
+
  - another attempt:
  - Runtime: 68 ms, faster than 78.36% of JavaScript online submissions for Valid Parentheses.
  - Memory Usage: 41.6 MB, less than 98.83% of JavaScript online submissions for Valid Parentheses.
@@ -46,6 +48,12 @@ Record my trip on my leetcode attempts.
 
 ---
 
+## mergeTwoLists
+- Runtime: 71 ms, faster than 86.29% of JavaScript online submissions for Merge Two Sorted Lists.
+- Memory Usage: 43.9 MB, less than 89.31% of JavaScript online submissions for Merge Two Sorted Lists.
+- 1 submit ACE!
+
+---
 
 # Medium Problems:
 
