@@ -63,5 +63,19 @@ Record my trip on my leetcode attempts.
 - Runtime: 144 ms, faster than 9.46% of JavaScript online submissions for Pancake Sorting.
 - Memory Usage: 48.6 MB, less than 8.11% of JavaScript online submissions for Pancake Sorting.
 - ??????????WOC???????????????????????????????YO&^%&&^E$*^&&^&*%$^
+- I'll try some better solutions later orz
+
+---
+
+## numIslands
+
+- Runtime: 209 ms, faster than 11.55% of JavaScript online submissions for Number of Islands.
+- Memory Usage: 64.6 MB, less than 5.12% of JavaScript online submissions for Number of Islands.
+- This is a logically-clear solution
+- We are using our own stack to mock the callstack
+- and using a set to mark the visited cells
+- If we mark the visited cells in-place, which means mutate the cells after visiting them with values represents "visited"/"don't go to here
+- and use recursions for finding neighbours
+- it will be much faster.
 
 ---
