@@ -1,7 +1,13 @@
 # Mizuho's leetcode trip
 Record my trip on my leetcode attempts.
 
-# Easy Problems:
+# 502 Gateway
+Record under construction! Please just jump to the code!
+
+# Toliet Thinking
+What's the point if I checkout another branch for this repo?
+
+<!-- # Easy Problems:
 
 ## twoSum:
 
@@ -78,4 +84,4 @@ Record my trip on my leetcode attempts.
 - and use recursions for finding neighbours
 - it will be much faster.
 
----
+--- -->
