@@ -60,4 +60,4 @@ MyQueue.prototype.empty = function() {
 
 //  Runtime: 149 ms, faster than 5.31% of JavaScript online submissions for Implement Queue using Stacks.
 //  Memory Usage: 41.8 MB, less than 78.90% of JavaScript online submissions for Implement Queue using Stacks.
-//  R U GUYS USING BUILT IN ARRAY PROTOTYPE METHOD????????????????
+//  Some solutions using built-in Array methods lmao
