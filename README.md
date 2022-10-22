@@ -1,10 +1,10 @@
 # Mizuho's leetcode trip
 Record my trip on my leetcode attempts.
 
-# 502 Gateway
+# 502 Bad Gateway
 Record under construction! Please just jump to the code!
 
-# Toliet Thinking
+# Bathroom Thinking
 What's the point if I checkout another branch for this repo?
 
 <!-- # Easy Problems:
