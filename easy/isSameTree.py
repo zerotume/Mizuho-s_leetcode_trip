@@ -9,4 +9,4 @@ class Solution:
 
 # Runtime: 55 ms, faster than 52.07% of Python3 online submissions for Same Tree.
 # Memory Usage: 14 MB, less than 29.09% of Python3 online submissions for Same Tree.
-# Never thought that recursion is such a easy thing
+# Never thought that recursion is such an easy thing
