@@ -47,3 +47,6 @@
 // Memory Usage: 69.5 MB, less than 83.42% of JavaScript online submissions for Palindrome Linked List.
 // the biggest chanllenge is about how javascript is referencing the memory block
 // so the order of assigning value is important
+// which means that, when we use it like prev = slow, the prev is actually pointing to the memory block
+// which slow is pointed to.
+// in C/C++ maybe it's LinkedListNode *prev = slow?
