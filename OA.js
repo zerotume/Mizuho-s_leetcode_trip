@@ -5,3 +5,7 @@ const getTest = async () => {
 }
 
 getTest();
+
+// the fetch in our codes comes from webpack
+// todo: find out why how it is imported to the front end place
+// get the whole flow
