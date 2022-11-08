@@ -19,5 +19,6 @@
     return res;
   };
 
-  //from a/A assessment, will update time and space later
-  //yeah
+  // Runtime: 198 ms, faster than 36.85% of JavaScript online submissions for Product of Array Except Self.
+  // Memory Usage: 51.8 MB, less than 97.94% of JavaScript online submissions for Product of Array Except Self.
+// updated performance, yeah
