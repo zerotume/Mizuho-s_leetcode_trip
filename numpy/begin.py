@@ -36,3 +36,10 @@ print(f"{z.size * z.itemsize}bytes")
 z = np.zeros(10)
 z[4] = 1
 print(z)
+
+# array range from 10 to 49
+z = np.arange(10,50)
+print(z)
+# reverse it
+z = z[::-1]
+print(z)
