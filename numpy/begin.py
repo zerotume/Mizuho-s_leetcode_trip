@@ -10,8 +10,11 @@ p = arr1 * arr2
 m_p = arr1.dot(arr2)# linear algebra support!
 q = arr1 / arr2 # cool!
 
-print(s)
-print(d)
-print(p)
-print(m_p)
-print(q)
+# print(s)
+# print(d)
+# print(p)
+# print(m_p)
+# print(q)
+
+print(np.__version__)
+np.show_config()
