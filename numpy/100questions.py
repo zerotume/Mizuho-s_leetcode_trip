@@ -33,3 +33,8 @@ z = np.arange(9)
 print(z)
 z = z.reshape(3,3)
 print(z)
+
+
+#nonzero
+nz = np.nonzero([1,2,0,2,-1,0,1])
+print(nz)
