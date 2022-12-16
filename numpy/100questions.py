@@ -51,3 +51,8 @@ print(z)
 z = np.random.random((10,10))
 zmin,zmax = z.min(), z.max()
 print(zmin, zmax)
+
+# mean value
+z = np.random.random(30)
+m = z.mean()
+print(m)
