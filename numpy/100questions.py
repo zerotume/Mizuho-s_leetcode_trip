@@ -43,6 +43,11 @@ print(nz)
 z = np.eye(3)
 print(z)
 
-#random.random, dont forget it's 2nd level function
-z = np.random.random((3,3,3))
-print(z)
+# #random.random, dont forget it's 2nd level function
+# z = np.random.random((3,3,3))
+# print(z)
+
+#10x10 random matrix, and find min & max value
+z = np.random.random((10,10))
+zmin,zmax = z.min(), z.max()
+print(zmin, zmax)
