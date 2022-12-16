@@ -38,3 +38,7 @@ print(z)
 #nonzero
 nz = np.nonzero([1,2,0,2,-1,0,1])
 print(nz)
+
+#eye, n * n matrix (why it is called eye?)
+z = np.eye(3)
+print(z)
