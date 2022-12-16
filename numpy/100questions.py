@@ -42,3 +42,7 @@ print(nz)
 #eye, n * n matrix (why it is called eye?)
 z = np.eye(3)
 print(z)
+
+#random.random, dont forget it's 2nd level function
+z = np.random.random((3,3,3))
+print(z)
