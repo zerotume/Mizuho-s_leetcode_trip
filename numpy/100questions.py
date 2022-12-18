@@ -56,3 +56,9 @@ print(zmin, zmax)
 z = np.random.random(30)
 m = z.mean()
 print(m)
+
+# border value?
+
+z = np.ones((10,10))
+z[1:-1, 1:-1] = 0
+print(z)
