@@ -62,3 +62,9 @@ print(m)
 z = np.ones((10,10))
 z[1:-1, 1:-1] = 0
 print(z)
+
+# 0 filled border for existed array
+
+z = np.ones((5,5))
+z = np.pad(z, pad_width=1, mode='constant', constant_values=0)
+print(z)
